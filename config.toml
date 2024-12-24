@@ -1,0 +1,6 @@
+[browser]
+    gatherUsageStats = false
+
+    [server]
+    enableCORS = false
+    port = 8501

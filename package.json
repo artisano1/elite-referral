@@ -1,0 +1,11 @@
+{
+      "name": "arvea-elite-referral-business",
+      "version": "1.0.0",
+      "scripts": {
+        "dev": "streamlit run app.py"
+      },
+      "dependencies": {
+        "streamlit": "^1.12.0",
+        "mysql-connector-python": "^8.0.31"
+      }
+    }
